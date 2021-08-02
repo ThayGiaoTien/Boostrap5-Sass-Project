@@ -1,0 +1,23 @@
+{
+  "name": "sass_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass scss:assets/css"
+  },
+  "keywords": [
+    "sass_project"
+  ],
+  "author": "teacherforward",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "autoprefixer": "^10.3.1",
+    "bootstrap": "^5.0.2",
+    "postcss-cli": "^8.3.1"
+  },
+  "devDependencies": {
+    "sass": "^1.36.0"
+  }
+}
