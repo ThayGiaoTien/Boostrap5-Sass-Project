@@ -59,3 +59,5 @@
 *text-end or text-start 
 *getwave.io
 *glightbox to display popup video
+
+*shadow-sm
