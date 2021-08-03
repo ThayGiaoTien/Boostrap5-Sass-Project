@@ -61,3 +61,19 @@
 *glightbox to display popup video
 
 *shadow-sm
+
+*h1.display-3(custom).fw-
+
+*use -webkit to create text with gradient background color
+    &--title{
+        font-size:1.8rem;
+        text-transform: capitalize;
+        font-weight: 600;
+        font-family: 'Poppins', sans-serif;
+        display:inline-block;
+        background-image: linear-gradient(to right, $primary, $secondary);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        
+*d-block to xuong dong.
