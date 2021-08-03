@@ -79,3 +79,12 @@
 *d-block to xuong dong.
 
 *overflow-hidden: hide the part dose not stay inside of div
+
+*change before of list to check notation:
+  li::before{
+            font-family: "Font Awesome 5 Free";
+            content: "\f00c";
+            font-weight: 600;
+            margin-right: 0.5rem;
+            font-size: 1.2rem;
+        }
