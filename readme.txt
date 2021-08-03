@@ -77,3 +77,5 @@
         -webkit-text-fill-color: transparent;
         
 *d-block to xuong dong.
+
+*overflow-hidden: hide the part dose not stay inside of div
