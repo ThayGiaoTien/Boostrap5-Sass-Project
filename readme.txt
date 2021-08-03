@@ -55,5 +55,7 @@
 
 *line-height  is the same to padding top
 
-
-
+*copy color to manypixel website to create art illustration
+*text-end or text-start 
+*getwave.io
+*glightbox to display popup video
